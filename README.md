@@ -1,15 +1,6 @@
-<!DOCTYPE html>
+# Leban Insurnce 
+## First Draft
+<p>We could just start texting here.</p>
 
-<html lang="en-us">
-    <head>
-        <meta charset="utf-8">
-        <title>Leban Insurance</title>
-        
-        <link rel="stylesheet" href="css/styles.css" type="text/css" />
-    </head>
-    <body>
-        <header></header>   
-        <main></main>
-        <footer></footer>
-    </body>
-</html>
+### Febuary 17th, 2016
+<p>Our entire class finally did a push to GitHub. :-)</p>
